@@ -21,4 +21,5 @@ Ecco alcune idee per iniziare:
 <p align="left">
 <a href="https://www.facebook.com/giovanni.gabriele/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="giovannigabriele" height="30" width="40" /></a>
 <a href="https://instagram.com/_giovannigabriele_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_giovannigabriele_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/giovanni-gabriele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giovanni-gabriele" height="30" width="40" /></a>
 </p>
