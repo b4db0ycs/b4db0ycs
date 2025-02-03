@@ -1,6 +1,6 @@
 ### Ehi, come va? Sono Giovanni Gabriele 👋
 
-![github contribution grid snake animation]([https://github.com/b4db0ycs/b4db0ycs/blob/main/github-contribution-grid-snake.svg](https://github.com/galbraithmedia1/galbraithmedia1/blob/output//github-contribution-grid-snake.svg))
+![github contribution grid snake animation](https://github.com/galbraithmedia1/galbraithmedia1/blob/output//github-contribution-grid-snake.svg)
 
 
 
