@@ -1,16 +1,24 @@
-## Hi there 👋
+### Ehi, come va? Sono Giovanni Gabriele 👋
 
-<!--
-**b4db0ycs/b4db0ycs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![github contribution grid snake animation](https://github.com/galbraithmedia1/galbraithmedia1/blob/output//github-contribution-grid-snake.svg)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+Ecco alcune idee per iniziare:
+
+- 🔭 Attualmente sto lavorando.
+- 📡 Attualmente sto psviluppando in  C++ e Python.
+- 🤝 Sono un BioHacker, possiedo 2 impianti sottocutanei.
+- 📫 Come raggiungermi: gabrielegworking@gmail.com
+- 📺 Guarda il mio [Canale YouTube](https://www.youtube.com/@b4db0ycs) 
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=b4db0ycs&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=daf7dc&bg_color=134F85">
+
+<h3 align="left">Collegatevi con me:</h3>
+<p align="left">
+<a href="https://www.facebook.com/giovanni.gabriele/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="giovannigabriele" height="30" width="40" /></a>
+<a href="https://instagram.com/_giovannigabriele_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_giovannigabriele_" height="30" width="40" /></a>
+</p>
