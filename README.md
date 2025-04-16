@@ -10,7 +10,7 @@ Ecco alcune idee per iniziare:
 
 - 🔭 Attualmente sto lavorando.
 - 📡 Attualmente sto psviluppando in  C++ e Python.
-- 🤝 Sono un BioHacker, possiedo 2 impianti sottocutanei.
+- 🤝 Sono un BioHacker, possiedo 3 impianti sottocutanei xSIID, Walletmore e NExT (RFID + NFC).
 - 📫 Come raggiungermi: gabrielegworking@gmail.com
 - 📺 Guarda il mio [Canale YouTube](https://www.youtube.com/@b4db0ycs) 
 
