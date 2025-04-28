@@ -33,4 +33,4 @@ Ecco alcune idee per iniziare:
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=azagramac&label=Hello&color=0e75b6&style=flat" /> <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="35px"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=b4db0ycs&label=Ciao&color=0e75b6&style=flat" /> <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="35px"/> </p>
