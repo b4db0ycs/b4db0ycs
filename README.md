@@ -21,8 +21,8 @@ Ecco alcune idee per iniziare:
 
 <img src="https://github-readme-stats.vercel.app/api?username=b4db0ycs&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=daf7dc&bg_color=134F85">
 
-<h3 align="left">Collegatevi con me:</h3>
-<p align="left">
+<h3 align="center">Collegatevi con me:</h3>
+<p align="center">
 <a href="https://www.facebook.com/giovanni.gabriele/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="giovannigabriele" height="30" width="40" /></a>
 <a href="https://instagram.com/_giovannigabriele_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_giovannigabriele_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/giovanni-gabriele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giovanni-gabriele" height="30" width="40" /></a>
